@@ -1,0 +1,229 @@
+2023-03-25 15:12:26,231 | INFO | model.py: df is read in main
+2023-03-25 15:12:26,232 | INFO | see_df.py: running see_df
+2023-03-25 15:12:26,232 | INFO | see_df.py: data is read in see_df
+2023-03-25 15:12:26,233 | INFO | see_df.py: data is visualised in see_df
+2023-03-25 15:12:26,233 | INFO | model.py: see_df is run successfully
+2023-03-25 15:12:26,233 | INFO | model.py: main running
+2023-03-25 15:12:26,233 | INFO | model.py: starting training function
+2023-03-25 15:12:26,234 | INFO | train.py: training started
+2023-03-25 15:12:26,234 | INFO | train.py: splitting data
+2023-03-25 15:12:26,241 | INFO | train.py: data is successfully split
+2023-03-25 15:12:26,241 | INFO | train.py: starting model training
+2023-03-25 15:12:26,241 | INFO | train.py: model_tree running
+2023-03-25 15:12:26,280 | INFO | train.py: model_tree id successfully finished
+2023-03-25 15:12:26,281 | INFO | train.py: starting random forest model
+2023-03-25 15:12:27,426 | INFO | train.py: rf model run successfully
+2023-03-25 15:12:27,427 | INFO | train.py: starting logistic reg model
+2023-03-25 15:12:27,550 | INFO | train.py: lr model run successfully
+2023-03-25 15:12:27,551 | INFO | train.py: best model selected
+2023-03-25 15:12:27,551 | INFO | train.py: successfully run training
+2023-03-25 15:12:27,552 | INFO | model.py: training is finished
+2023-03-25 15:12:27,552 | INFO | model.py: main file running
+2023-03-25 15:12:27,552 | INFO | model.py: model testing started
+2023-03-25 15:12:27,552 | INFO | test_model.py running
+2023-03-25 15:12:27,552 | INFO | test_model.py successfully predicted in test file
+2023-03-25 15:12:27,552 | INFO | test_model.py starting main file
+2023-03-25 15:12:27,552 | INFO | model.py: program run successfully!
+2023-03-25 15:12:27,552 | INFO | model.py: pickling model
+2023-03-25 15:12:27,572 | INFO | model.py: pickling completed
+2023-03-25 15:12:27,573 | INFO | model.py: now running main file
+2023-03-25 15:12:27,573 | INFO | main_file.py: running test_model
+2023-03-25 15:12:27,592 | INFO | main_file.py: successfully predicted in main file
+2023-03-25 15:12:28,253 | WARNING | 
+  [33m[1mWarning:[0m to view this Streamlit app on a browser, run it with the following
+  command:
+
+    streamlit run C:\Users\PavanAray\PycharmProjects\pythonProject3\model.py [ARGUMENTS]
+2023-03-25 15:12:28,257 | INFO | model.py: program finished
+2023-03-25 15:12:49,709 | INFO | model.py: df is read in main
+2023-03-25 15:12:49,710 | INFO | see_df.py: running see_df
+2023-03-25 15:12:49,711 | INFO | see_df.py: data is read in see_df
+2023-03-25 15:12:49,711 | INFO | see_df.py: data is visualised in see_df
+2023-03-25 15:12:49,712 | INFO | model.py: see_df is run successfully
+2023-03-25 15:12:49,713 | INFO | model.py: main running
+2023-03-25 15:12:49,714 | INFO | model.py: starting training function
+2023-03-25 15:12:49,715 | INFO | train.py: training started
+2023-03-25 15:12:49,716 | INFO | train.py: splitting data
+2023-03-25 15:12:49,724 | INFO | train.py: data is successfully split
+2023-03-25 15:12:49,724 | INFO | train.py: starting model training
+2023-03-25 15:12:49,725 | INFO | train.py: model_tree running
+2023-03-25 15:12:49,756 | INFO | train.py: model_tree id successfully finished
+2023-03-25 15:12:49,757 | INFO | train.py: starting random forest model
+2023-03-25 15:12:50,549 | INFO | train.py: rf model run successfully
+2023-03-25 15:12:50,550 | INFO | train.py: starting logistic reg model
+2023-03-25 15:12:50,675 | INFO | train.py: lr model run successfully
+2023-03-25 15:12:50,676 | INFO | train.py: best model selected
+2023-03-25 15:12:50,676 | INFO | train.py: successfully run training
+2023-03-25 15:12:50,678 | INFO | model.py: training is finished
+2023-03-25 15:12:50,679 | INFO | model.py: main file running
+2023-03-25 15:12:50,680 | INFO | model.py: model testing started
+2023-03-25 15:12:50,681 | INFO | test_model.py running
+2023-03-25 15:12:50,682 | INFO | test_model.py successfully predicted in test file
+2023-03-25 15:12:50,683 | INFO | test_model.py starting main file
+2023-03-25 15:12:50,683 | INFO | model.py: program run successfully!
+2023-03-25 15:12:50,684 | INFO | model.py: pickling model
+2023-03-25 15:12:50,713 | INFO | model.py: pickling completed
+2023-03-25 15:12:50,714 | INFO | model.py: now running main file
+2023-03-25 15:12:50,715 | INFO | main_file.py: running test_model
+2023-03-25 15:12:50,741 | INFO | main_file.py: successfully predicted in main file
+2023-03-25 15:12:51,351 | INFO | model.py: program finished
+2023-03-25 15:12:55,449 | INFO | model.py: df is read in main
+2023-03-25 15:12:55,449 | INFO | model.py: df is read in main
+2023-03-25 15:12:55,451 | INFO | see_df.py: running see_df
+2023-03-25 15:12:55,451 | INFO | see_df.py: running see_df
+2023-03-25 15:12:55,452 | INFO | see_df.py: data is read in see_df
+2023-03-25 15:12:55,452 | INFO | see_df.py: data is read in see_df
+2023-03-25 15:12:55,453 | INFO | see_df.py: data is visualised in see_df
+2023-03-25 15:12:55,453 | INFO | see_df.py: data is visualised in see_df
+2023-03-25 15:12:55,455 | INFO | model.py: see_df is run successfully
+2023-03-25 15:12:55,455 | INFO | model.py: see_df is run successfully
+2023-03-25 15:12:55,457 | INFO | model.py: main running
+2023-03-25 15:12:55,457 | INFO | model.py: main running
+2023-03-25 15:12:55,458 | INFO | model.py: starting training function
+2023-03-25 15:12:55,458 | INFO | model.py: starting training function
+2023-03-25 15:12:55,462 | INFO | train.py: training started
+2023-03-25 15:12:55,462 | INFO | train.py: training started
+2023-03-25 15:12:55,465 | INFO | train.py: splitting data
+2023-03-25 15:12:55,465 | INFO | train.py: splitting data
+2023-03-25 15:12:55,484 | INFO | train.py: data is successfully split
+2023-03-25 15:12:55,484 | INFO | train.py: data is successfully split
+2023-03-25 15:12:55,487 | INFO | train.py: starting model training
+2023-03-25 15:12:55,487 | INFO | train.py: starting model training
+2023-03-25 15:12:55,488 | INFO | train.py: model_tree running
+2023-03-25 15:12:55,488 | INFO | train.py: model_tree running
+2023-03-25 15:12:55,527 | INFO | train.py: model_tree id successfully finished
+2023-03-25 15:12:55,527 | INFO | train.py: model_tree id successfully finished
+2023-03-25 15:12:55,529 | INFO | train.py: starting random forest model
+2023-03-25 15:12:55,529 | INFO | train.py: starting random forest model
+2023-03-25 15:12:56,617 | INFO | train.py: rf model run successfully
+2023-03-25 15:12:56,617 | INFO | train.py: rf model run successfully
+2023-03-25 15:12:56,619 | INFO | train.py: starting logistic reg model
+2023-03-25 15:12:56,619 | INFO | train.py: starting logistic reg model
+2023-03-25 15:12:56,771 | INFO | train.py: lr model run successfully
+2023-03-25 15:12:56,771 | INFO | train.py: lr model run successfully
+2023-03-25 15:12:56,773 | INFO | train.py: best model selected
+2023-03-25 15:12:56,773 | INFO | train.py: best model selected
+2023-03-25 15:12:56,775 | INFO | train.py: successfully run training
+2023-03-25 15:12:56,775 | INFO | train.py: successfully run training
+2023-03-25 15:12:56,777 | INFO | model.py: training is finished
+2023-03-25 15:12:56,777 | INFO | model.py: training is finished
+2023-03-25 15:12:56,778 | INFO | model.py: main file running
+2023-03-25 15:12:56,778 | INFO | model.py: main file running
+2023-03-25 15:12:56,779 | INFO | model.py: model testing started
+2023-03-25 15:12:56,779 | INFO | model.py: model testing started
+2023-03-25 15:12:56,781 | INFO | test_model.py running
+2023-03-25 15:12:56,781 | INFO | test_model.py running
+2023-03-25 15:12:56,782 | INFO | test_model.py successfully predicted in test file
+2023-03-25 15:12:56,782 | INFO | test_model.py successfully predicted in test file
+2023-03-25 15:12:56,785 | INFO | test_model.py starting main file
+2023-03-25 15:12:56,785 | INFO | test_model.py starting main file
+2023-03-25 15:12:56,786 | INFO | model.py: program run successfully!
+2023-03-25 15:12:56,786 | INFO | model.py: program run successfully!
+2023-03-25 15:12:56,787 | INFO | model.py: pickling model
+2023-03-25 15:12:56,787 | INFO | model.py: pickling model
+2023-03-25 15:12:56,831 | INFO | model.py: pickling completed
+2023-03-25 15:12:56,831 | INFO | model.py: pickling completed
+2023-03-25 15:12:56,833 | INFO | model.py: now running main file
+2023-03-25 15:12:56,833 | INFO | model.py: now running main file
+2023-03-25 15:12:56,836 | INFO | main_file.py: running test_model
+2023-03-25 15:12:56,836 | INFO | main_file.py: running test_model
+2023-03-25 15:12:56,836 | INFO | main_file.py: running test_model
+2023-03-25 15:12:56,896 | INFO | main_file.py: successfully predicted in main file
+2023-03-25 15:12:56,896 | INFO | main_file.py: successfully predicted in main file
+2023-03-25 15:12:56,896 | INFO | main_file.py: successfully predicted in main file
+2023-03-25 15:12:57,012 | INFO | model.py: df is read in main
+2023-03-25 15:12:57,012 | INFO | model.py: df is read in main
+2023-03-25 15:12:57,012 | INFO | model.py: df is read in main
+2023-03-25 15:12:57,014 | INFO | see_df.py: running see_df
+2023-03-25 15:12:57,014 | INFO | see_df.py: running see_df
+2023-03-25 15:12:57,014 | INFO | see_df.py: running see_df
+2023-03-25 15:12:57,016 | INFO | see_df.py: data is read in see_df
+2023-03-25 15:12:57,016 | INFO | see_df.py: data is read in see_df
+2023-03-25 15:12:57,016 | INFO | see_df.py: data is read in see_df
+2023-03-25 15:12:57,018 | INFO | see_df.py: data is visualised in see_df
+2023-03-25 15:12:57,018 | INFO | see_df.py: data is visualised in see_df
+2023-03-25 15:12:57,018 | INFO | see_df.py: data is visualised in see_df
+2023-03-25 15:12:57,020 | INFO | model.py: see_df is run successfully
+2023-03-25 15:12:57,020 | INFO | model.py: see_df is run successfully
+2023-03-25 15:12:57,020 | INFO | model.py: see_df is run successfully
+2023-03-25 15:12:57,022 | INFO | model.py: main running
+2023-03-25 15:12:57,022 | INFO | model.py: main running
+2023-03-25 15:12:57,022 | INFO | model.py: main running
+2023-03-25 15:12:57,025 | INFO | model.py: starting training function
+2023-03-25 15:12:57,025 | INFO | model.py: starting training function
+2023-03-25 15:12:57,025 | INFO | model.py: starting training function
+2023-03-25 15:12:57,027 | INFO | train.py: training started
+2023-03-25 15:12:57,027 | INFO | train.py: training started
+2023-03-25 15:12:57,027 | INFO | train.py: training started
+2023-03-25 15:12:57,033 | INFO | train.py: splitting data
+2023-03-25 15:12:57,033 | INFO | train.py: splitting data
+2023-03-25 15:12:57,033 | INFO | train.py: splitting data
+2023-03-25 15:12:57,044 | INFO | train.py: data is successfully split
+2023-03-25 15:12:57,044 | INFO | train.py: data is successfully split
+2023-03-25 15:12:57,044 | INFO | train.py: data is successfully split
+2023-03-25 15:12:57,046 | INFO | train.py: starting model training
+2023-03-25 15:12:57,046 | INFO | train.py: starting model training
+2023-03-25 15:12:57,046 | INFO | train.py: starting model training
+2023-03-25 15:12:57,049 | INFO | train.py: model_tree running
+2023-03-25 15:12:57,049 | INFO | train.py: model_tree running
+2023-03-25 15:12:57,049 | INFO | train.py: model_tree running
+2023-03-25 15:12:57,090 | INFO | train.py: model_tree id successfully finished
+2023-03-25 15:12:57,090 | INFO | train.py: model_tree id successfully finished
+2023-03-25 15:12:57,090 | INFO | train.py: model_tree id successfully finished
+2023-03-25 15:12:57,092 | INFO | train.py: starting random forest model
+2023-03-25 15:12:57,092 | INFO | train.py: starting random forest model
+2023-03-25 15:12:57,092 | INFO | train.py: starting random forest model
+2023-03-25 15:12:58,290 | INFO | train.py: rf model run successfully
+2023-03-25 15:12:58,290 | INFO | train.py: rf model run successfully
+2023-03-25 15:12:58,290 | INFO | train.py: rf model run successfully
+2023-03-25 15:12:58,292 | INFO | train.py: starting logistic reg model
+2023-03-25 15:12:58,292 | INFO | train.py: starting logistic reg model
+2023-03-25 15:12:58,292 | INFO | train.py: starting logistic reg model
+2023-03-25 15:12:58,414 | INFO | train.py: lr model run successfully
+2023-03-25 15:12:58,414 | INFO | train.py: lr model run successfully
+2023-03-25 15:12:58,414 | INFO | train.py: lr model run successfully
+2023-03-25 15:12:58,416 | INFO | train.py: best model selected
+2023-03-25 15:12:58,416 | INFO | train.py: best model selected
+2023-03-25 15:12:58,416 | INFO | train.py: best model selected
+2023-03-25 15:12:58,419 | INFO | train.py: successfully run training
+2023-03-25 15:12:58,419 | INFO | train.py: successfully run training
+2023-03-25 15:12:58,419 | INFO | train.py: successfully run training
+2023-03-25 15:12:58,421 | INFO | model.py: training is finished
+2023-03-25 15:12:58,421 | INFO | model.py: training is finished
+2023-03-25 15:12:58,421 | INFO | model.py: training is finished
+2023-03-25 15:12:58,422 | INFO | model.py: main file running
+2023-03-25 15:12:58,422 | INFO | model.py: main file running
+2023-03-25 15:12:58,422 | INFO | model.py: main file running
+2023-03-25 15:12:58,424 | INFO | model.py: model testing started
+2023-03-25 15:12:58,424 | INFO | model.py: model testing started
+2023-03-25 15:12:58,424 | INFO | model.py: model testing started
+2023-03-25 15:12:58,427 | INFO | test_model.py running
+2023-03-25 15:12:58,427 | INFO | test_model.py running
+2023-03-25 15:12:58,427 | INFO | test_model.py running
+2023-03-25 15:12:58,428 | INFO | test_model.py successfully predicted in test file
+2023-03-25 15:12:58,428 | INFO | test_model.py successfully predicted in test file
+2023-03-25 15:12:58,428 | INFO | test_model.py successfully predicted in test file
+2023-03-25 15:12:58,430 | INFO | test_model.py starting main file
+2023-03-25 15:12:58,430 | INFO | test_model.py starting main file
+2023-03-25 15:12:58,430 | INFO | test_model.py starting main file
+2023-03-25 15:12:58,432 | INFO | model.py: program run successfully!
+2023-03-25 15:12:58,432 | INFO | model.py: program run successfully!
+2023-03-25 15:12:58,432 | INFO | model.py: program run successfully!
+2023-03-25 15:12:58,434 | INFO | model.py: pickling model
+2023-03-25 15:12:58,434 | INFO | model.py: pickling model
+2023-03-25 15:12:58,434 | INFO | model.py: pickling model
+2023-03-25 15:12:58,469 | INFO | model.py: pickling completed
+2023-03-25 15:12:58,469 | INFO | model.py: pickling completed
+2023-03-25 15:12:58,469 | INFO | model.py: pickling completed
+2023-03-25 15:12:58,471 | INFO | model.py: now running main file
+2023-03-25 15:12:58,471 | INFO | model.py: now running main file
+2023-03-25 15:12:58,471 | INFO | model.py: now running main file
+2023-03-25 15:12:58,473 | INFO | main_file.py: running test_model
+2023-03-25 15:12:58,473 | INFO | main_file.py: running test_model
+2023-03-25 15:12:58,473 | INFO | main_file.py: running test_model
+2023-03-25 15:12:58,509 | INFO | main_file.py: successfully predicted in main file
+2023-03-25 15:12:58,509 | INFO | main_file.py: successfully predicted in main file
+2023-03-25 15:12:58,509 | INFO | main_file.py: successfully predicted in main file
+2023-03-25 15:12:58,538 | INFO | model.py: program finished
+2023-03-25 15:12:58,538 | INFO | model.py: program finished
+2023-03-25 15:12:58,538 | INFO | model.py: program finished
